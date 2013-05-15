@@ -13,4 +13,4 @@ installer:
 	pear channel-discover pear.cakephp.org
 	pear install cakephp/CakePHP_CodeSniffer
 
-Install the needed pre-commit file for your operating systmem to .git/hooks/ 
+Install the needed pre-commit file for your operating systmem to .git/hooks/pre-commit
